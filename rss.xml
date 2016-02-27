@@ -2,22 +2,16 @@
     <channel>
         <title><![CDATA[JBKConsultant]]></title>
         <description><![CDATA[JBKConsultant]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jbkconsultant/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 00:56:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 27 Feb 2016 00:57:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jbkconsultant/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>bio.  
-
-Jordan Bill Kuznia  
-
-
-
-In June of 2013 I started working with mens style at the Men's Wearhouse in Bismarck, North Dakota while I was attending the University of Mary. While working there I began developing my knowledge on the basics of mens fashion and style. Over the next two years I would continue to learn and explore the topic, all the while enhancing my personal style and wardrobe. In March of 2015 I moved to Fargo, North Dakota and worked at a local family owned store called Straus Clothing, which opening initially in 1879. While there I learned more about the foundations of style and a lot of the history and details of the mens clothing business from the Stern brothers who ran the store. I worked there until the owners retired and the store went out of business. Now I am taking all that I have learned and am working at Men's Wearhouse in Fargo, ND and am willing to work with you independently to create your ideal outfit or full wardrobe.</p>]]></description>
-            <link>undefined2d737559-f66f-4921-8029-2db70b709d6b/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/56c87360-3ab3-4652-9133-b29063972a10.jpg">]]></description>
+            <link>https://thegrid.ai/jbkconsultant/2d737559-f66f-4921-8029-2db70b709d6b/index.html</link>
             <guid isPermaLink="false">2d737559-f66f-4921-8029-2db70b709d6b</guid>
-            <pubDate>Sat, 27 Feb 2016 00:55:50 GMT</pubDate>
+            <pubDate>Sat, 27 Feb 2016 00:56:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
