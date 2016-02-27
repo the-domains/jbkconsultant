@@ -1,7 +1,7 @@
 name: JBKConsultant
 favicon: null
-layout_spectrum: 0.673413455253467
-typography_spectrum: 0.31261175335384905
+layout_spectrum: 0.89259
+typography_spectrum: 0.63942
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.45203450857661664
-  lightness: 0.9649680079892278
-  saturation: 0.9464661406818777
-  rhythmicContrast: 0.8761469714809209
+    - '#ffffff'
+    - '#6a0d0e'
+    - '#000000'
+    - '#545454'
+    - '#7c7c7c'
+  brandStrength: 0.8125
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
