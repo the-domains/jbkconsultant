@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-28T19:14:27.408Z'
-dateModified: '2016-02-27T01:06:58.299Z'
+datePublished: '2016-02-28T19:16:52.324Z'
+dateModified: '2016-02-28T19:14:33.404Z'
 title: "5 Everyday Men’s Style Mistakes\_"
 author: []
 sourcePath: _posts/2016-02-27-5-everyday-mens-style-mistakes.md
