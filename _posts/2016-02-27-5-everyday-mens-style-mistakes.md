@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' For a gentleman, style is one of his most important tools, and is a deeply personal aspect of who they are. While I do encourage you to stay true to your own style, there are certain things that you simply should not do. Your style tells people about you without you having to say a word, and if you aren’t dressed the part it’s going to come across that you don’t know what you are doing.'
-datePublished: '2016-05-24T20:50:36.298Z'
-dateModified: '2016-05-24T20:50:09.990Z'
+datePublished: '2016-05-24T20:51:34.003Z'
+dateModified: '2016-05-24T20:50:41.167Z'
 title: '5 Everyday Men’s Style Mistakes '
 author:
   - name: ''
