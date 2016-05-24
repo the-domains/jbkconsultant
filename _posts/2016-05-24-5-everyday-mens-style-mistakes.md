@@ -4,15 +4,17 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: "For a gentleman, style is one of his most important tools, and is a deeply personal aspect of who they are. While I do encourage you to stay true to your own style, there are certain things that you simply should not do. Your style tells people about you without you having to say a word, and if you aren’t dressed the part it’s going to come across that you don’t know what you are doing. \n"
-datePublished: '2016-05-24T22:53:46.343Z'
-dateModified: '2016-05-24T22:52:56.752Z'
+description: 'For a gentleman, style is one of his most important tools, and is a deeply personal aspect of who they are. While I do encourage you to stay true to your own style, there are certain things that you simply should not do. Your style tells people about you without you having to say a word, and if you aren’t dressed the part it’s going to come across that you don’t know what you are doing. '
+datePublished: '2016-05-24T22:55:32.577Z'
+dateModified: '2016-05-24T22:53:51.288Z'
 title: "5 Everyday Men's Style Mistakes"
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-05-24-5-everyday-mens-style-mistakes.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-24-5-everyday-mens-style-mistakes.md
 url: 5-everyday-mens-style-mistakes/index.html
 _type: Article
 
@@ -22,7 +24,6 @@ _type: Article
 # 5 Everyday Men's Style Mistakes
 
 > For a gentleman, style is one of his most important tools, and is a deeply personal aspect of who they are. While I do encourage you to stay true to your own style, there are certain things that you simply should not do. Your style tells people about you without you having to say a word, and if you aren't dressed the part it's going to come across that you don't know what you are doing. 
-> 
 
 I'm going to share with you five (5) of the most common mistakes I see men making when I am out in public, and I hope that it will help you step up your own style game. 
 
