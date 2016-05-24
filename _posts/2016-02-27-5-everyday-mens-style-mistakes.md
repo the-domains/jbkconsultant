@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-24T22:13:45.135Z'
-dateModified: '2016-05-24T22:13:41.693Z'
+datePublished: '2016-05-24T22:14:10.576Z'
+dateModified: '2016-05-24T22:14:07.288Z'
 title: ''
 author:
   - name: ''
@@ -21,7 +21,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/754585fc-374c-42cc-9bb5-3eb14772efe4.jpg)
 
-# 5 Everyday Men's Style Mistakes
+5 Everyday Men's Style Mistakes
 
 For a gentleman, style is one of his most important tools, and is a deeply personal aspect of who they are. While I do encourage you to stay true to your own style, there are certain things that you simply should not do. Your style tells people about you without you having to say a word, and if you aren't dressed the part it's going to come across that you don't know what you are doing. 
 
