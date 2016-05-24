@@ -1,7 +1,7 @@
 name: Working Gent
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.70799
+typography_spectrum: 0.73084
 title: Working Gent
 cta:
   domain: null
@@ -18,12 +18,12 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#6a0d0e'
+    - '#af1027'
     - '#000000'
-    - '#545454'
-    - '#7c7c7c'
+    - '#7d7d7d'
+    - '#c0c0c0'
   brandStrength: 0.125
   lightness: 1
-  saturation: 0.1875
-  rhythmicContrast: 1
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
