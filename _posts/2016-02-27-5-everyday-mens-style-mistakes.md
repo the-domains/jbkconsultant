@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-24T22:01:55.931Z'
-dateModified: '2016-05-24T22:01:50.997Z'
+datePublished: '2016-05-24T22:08:53.097Z'
+dateModified: '2016-05-24T22:08:42.859Z'
 title: ' one. suit buttons '
 author:
   - name: ''
