@@ -3,21 +3,18 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-28T19:16:52.324Z'
-dateModified: '2016-02-28T19:14:33.404Z'
-title: "5 Everyday Men’s Style Mistakes\_"
-author: []
+description: ' For a gentleman, style is one of his most important tools, and is a deeply personal aspect of who they are. While I do encourage you to stay true to your own style, there are certain things that you simply should not do. Your style tells people about you without you having to say a word, and if you aren’t dressed the part it’s going to come across that you don’t know what you are doing.'
+datePublished: '2016-05-24T20:50:36.298Z'
+dateModified: '2016-05-24T20:50:09.990Z'
+title: '5 Everyday Men’s Style Mistakes '
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-02-27-5-everyday-mens-style-mistakes.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 url: 5-everyday-mens-style-mistakes/index.html
 _type: Article
 
