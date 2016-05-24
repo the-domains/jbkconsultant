@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-24T22:10:49.836Z'
-dateModified: '2016-05-24T22:09:20.164Z'
+datePublished: '2016-05-24T22:11:02.336Z'
+dateModified: '2016-05-24T22:10:58.241Z'
 title: ' one. suit buttons '
 author:
   - name: ''
@@ -14,7 +14,7 @@ author:
 sourcePath: _posts/2016-02-27-5-everyday-mens-style-mistakes.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: 5-everyday-mens-style-mistakes/index.html
 _type: Article
 
